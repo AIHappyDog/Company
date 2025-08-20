@@ -195,10 +195,9 @@ const CTA = () => (
         <h2 className="text-3xl md:text-4xl font-semibold tracking-tight">Let's Talk About Your Project</h2>
         <p className="mt-3 text-base md:text-lg text-gray-600">Share your goals, timeline, and budget. We'll propose a clear and actionable plan with pricing.</p>
         <div className="mt-7 flex flex-col sm:flex-row gap-3 justify-center">
-          <a href="mailto:hi@deltasylva.com" className="inline-flex items-center justify-center rounded-2xl bg-gray-900 text-white px-5 py-3 text-sm md:text-base shadow-sm hover:shadow-md transition">Email: hi@deltasylva.com</a>
+          <a href="mailto:contact@deltasylva.com" className="inline-flex items-center justify-center rounded-2xl bg-gray-900 text-white px-5 py-3 text-sm md:text-base shadow-sm hover:shadow-md transition">Email: contact@deltasylva.com</a>
           <a href="https://cal.com/" target="_blank" rel="noreferrer" className="inline-flex items-center justify-center rounded-2xl border border-gray-200 px-5 py-3 text-sm md:text-base text-gray-700 bg-white hover:bg-gray-50">Book 15-min Call</a>
         </div>
-        <p className="mt-3 text-xs text-gray-500">Or add WeChat/WhatsApp – mention in your email.</p>
       </motion.div>
     </div>
   </section>
