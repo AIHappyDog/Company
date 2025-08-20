@@ -196,7 +196,7 @@ const CTA = () => (
         <p className="mt-3 text-base md:text-lg text-gray-600">Share your goals, timeline, and budget. We'll propose a clear and actionable plan with pricing.</p>
         <div className="mt-7 flex flex-col sm:flex-row gap-3 justify-center">
           <a href="mailto:contact@deltasylva.com" className="inline-flex items-center justify-center rounded-2xl bg-gray-900 text-white px-5 py-3 text-sm md:text-base shadow-sm hover:shadow-md transition">Email: contact@deltasylva.com</a>
-          <a href="https://cal.com/" target="_blank" rel="noreferrer" className="inline-flex items-center justify-center rounded-2xl border border-gray-200 px-5 py-3 text-sm md:text-base text-gray-700 bg-white hover:bg-gray-50">Book 15-min Call</a>
+          <a href="https://cal.com/" target="_blank" rel="noreferrer" className="inline-flex items-center justify-center rounded-2xl border border-gray-200 px-5 py-3 text-sm md:text-base text-gray-700 bg-white hover:bg-gray-50">Start Now</a>
         </div>
       </motion.div>
     </div>
